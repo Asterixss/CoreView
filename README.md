@@ -1,9 +1,4 @@
 # CoreView
-  ____             __     ___               
- / ___|___  _ __ __\ \   / (_) _____      __
-| |   / _ \| '__/ _ \ \ / /| |/ _ \ \ /\ / /
-| |__| (_) | | |  __/\ V / | |  __/\ V  V / 
- \____\___/|_|  \___| \_/  |_|\___| \_/\_/  
 
 CoreView is an intuitive, user-friendly C++ CLI system informer designed to provide deep insights into your hardware and operating system.
 
