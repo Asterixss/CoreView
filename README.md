@@ -26,7 +26,7 @@ Download the latest pre-compiled .exe directly from the Releases page.
 If you prefer to compile the source code yourself, ensure you have a C++ compiler installed, then follow these steps:
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/CoreView.git`
+   `git clone https://github.com/Asterixss/CoreView.git`
 2. Navigate to the directory:
    `cd CoreView`
 3. Compile the project:
