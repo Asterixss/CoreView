@@ -1,3 +1,9 @@
+# CoreFramework & Installers
+CoreFramework is the definition of all Core Projects, e.g. CoreView (This Project) and more upcoming ones.
+
+You can find the CoreFramework Installer on this Page, in the Release tab.
+We will not publish the Installer for now, because of Security reasons. (To avoid A Man-in-the-Middle (MitM) attack, which compromises the File's you're downloading)
+
 # CoreView
 
 CoreView is an intuitive, user-friendly C++ CLI system informer for **Windows** designed to provide deep insights into your hardware and operating system licensed under the EULA License.
