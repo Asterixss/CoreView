@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SysInformer/SysInformer.vcxproj" Id="427a733b-257b-4d33-8c14-6bf0065c6e06" />
+</Solution>
