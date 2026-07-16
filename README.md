@@ -1,7 +1,7 @@
 # CoreFramework & Installers
 CoreFramework is the definition of all Core Projects, e.g. CoreView (This Project) and more upcoming ones.
 
-You can find the CoreFramework Installer on this Page, in the Release tab.
+You can find the CoreFramework Installer on this Page, in the Release tab. (Search for CoreInstaller, aka CoreHelper)
 We will not publish the Installer for now, because of Security reasons. (To avoid A Man-in-the-Middle (MitM) attack, which compromises the File's you're downloading)
 
 # CoreView
