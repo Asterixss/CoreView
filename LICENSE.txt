@@ -1,25 +1,201 @@
-Copyright (c) [2026] [yummyzzzz / alexschr_codes]
+================================================================================
+          THE CORE FRAMEWORK OPEN SOURCE & ACCEPTABLE USE LICENSE
+                                Version 1.0
+================================================================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2026 yummyzzzz (https://github.com/yummyzzzz)
+Official Project Link: https://github.com/yummyzzzz/CoreInstaller
 
-1. The above copyright notice and this permission notice shall be included in all
-   copies or substantial portions of the Software.
+================================================================================
+1. PREAMBLE & INTENT
+================================================================================
+The Core Framework (hereinafter referred to as the "Framework") is conceived, 
+architected, and maintained by yummyzzzz. The purpose of this License is to 
+encourage widespread adoption, collaborative development, and unrestricted 
+technical innovation by allowing free use and modification of the Framework, 
+while strictly safeguarding the integrity, attribution, and ethical, lawful 
+application of the software.
 
-2. ACCEPTABLE USE: The Software shall NOT be used, modified, or distributed for 
-   any unlawful or illegal purposes under applicable law. Furthermore, the Software 
-   shall NOT be used to develop, generate, distribute, or execute malware, spyware, 
-   ransomware, or any other malicious code designed to cause harm or unauthorized 
-   access to systems, networks, or data.
+By downloading, accessing, installing, copying, modifying, or otherwise using 
+the Framework, the Licensee (an individual or legal entity) agrees to be bound 
+unconditionally by all terms, conditions, and restrictions set forth in this 
+License Agreement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+================================================================================
+2. DEFINITIONS
+================================================================================
+* "Framework" or "Software" refers to the Core software framework, including all 
+  source code, object code, binary files, components, architecture, libraries, 
+  documentation, interfaces, and accompanying assets.
+* "Licensor" or "Original Developer" refers specifically and exclusively to 
+  yummyzzzz (https://github.com/yummyzzzz).
+* "Licensee" or "You" refers to any individual, legal entity, or organization 
+  exercising permissions granted by this License.
+* "Derivative Works" refers to any software, application, library, or codebase 
+  that modifies, extends, incorporates, translates, or builds upon the Framework 
+  or any of its constituent components.
+* "Official Project Link" refers to the primary repository or web address 
+  designated by the Licensor where the official distribution of the Core 
+  Framework is hosted.
+* "Illegal Activity" refers to any act, omission, transaction, or deployment 
+  that violates any local, state, national, or international law, statute, 
+  regulation, or treaty applicable in the jurisdiction of the Licensee or the 
+  deployment environment.
+
+================================================================================
+3. OWNERSHIP & INTELLECTUAL PROPERTY
+================================================================================
+3.1 Absolute Ownership: Every component, module, design pattern, and original 
+    implementation within the Core Framework is the sole and exclusive 
+    intellectual property of yummyzzzz, unless explicitly stated otherwise via 
+    third-party licensing notices within specific files.
+
+3.2 No Transfer of Title: This License grants a conditional right to use and 
+    modify the Framework; it does not transfer, assign, or convey any ownership 
+    rights, copyright, patent rights, or trademark rights from the Licensor to 
+    the Licensee.
+
+================================================================================
+4. GRANT OF RIGHTS & OPEN SOURCE FREEDOMS
+================================================================================
+Subject to full compliance with the terms and conditions of this License, the 
+Licensor hereby grants to the Licensee a world-wide, royalty-free, non-exclusive, 
+revocable license to:
+
+4.1 Use & Execute: Download, install, compile, and run the Framework for any 
+    personal, educational, internal, or commercial purpose, subject to Section 6.
+
+4.2 Modify & Create Derivative Works: Make unlimited alterations, modifications, 
+    refactorings, optimizations, or additions to the source code of any 
+    component within the Framework.
+
+4.3 Distribute & Redistribute: Share, publish, distribute, sublicense, or sell 
+    unmodified or modified copies of the Framework, provided that such 
+    distribution adheres strictly to the attribution and legality requirements 
+    detailed below.
+
+================================================================================
+5. MANDATORY ATTRIBUTION & REFERENCE REQUIREMENTS
+================================================================================
+The open-source freedoms granted in Section 4 are expressly conditional upon 
+the following attribution requirements:
+
+5.1 Retention of Copyright Notices: All copies of the Framework, whether in 
+    whole or in part, unmodified or modified, must retain all original copyright 
+    notices, trademark notices, and the exact text of this License Agreement.
+
+5.2 Mandatory Developer Reference: In any distribution, Derivative Work, 
+    software documentation, about-page, or public repository that utilizes or 
+    builds upon the Framework, the Licensee must explicitly and prominently 
+    acknowledge yummyzzzz as the Original Developer and include a direct 
+    hyperlink to the developer profile:
+    
+    Original Developer: yummyzzzz (https://github.com/yummyzzzz)
+
+5.3 Mandatory Project Link: All derivative distributions and projects 
+    incorporating the Framework must include a clear, accessible hyperlink to 
+    the Official Project Link of the Core Framework.
+
+5.4 Indication of Modifications: If the Licensee makes modifications to any 
+    file or component of the Framework, they must cause the modified files to 
+    carry prominent notices stating that the files were changed, including the 
+    date of the modification, to ensure modified code is not misrepresented as 
+    the original work of yummyzzzz.
+
+================================================================================
+6. STRICT LAWFUL USE & LEGALITY POLICY ("NO ILLEGAL STUFF" CLAUSE)
+================================================================================
+6.1 Prohibition of Unlawful Conduct: The Framework, its components, and any 
+    Derivative Works shall ONLY be used for lawful purposes. It is strictly 
+    forbidden to use, deploy, integrate, or distribute the Framework in 
+    connection with any Illegal Activity.
+
+6.2 Specific Exclusions: Without limiting the generality of Section 6.1, the 
+    Framework shall not be used, directly or indirectly, for:
+    * The creation, dissemination, or execution of malicious software, 
+      including but not limited to ransomware, spyware, viruses, trojans, 
+      worms, or cryptojacking scripts.
+    * Conducting unauthorized cyberattacks, denial-of-service (DDoS) attacks, 
+      network scanning, exploitation of vulnerabilities, or unauthorized 
+      gaining of access to systems, networks, or data.
+    * Fraudulent activities, identity theft, phishing, unauthorized financial 
+      transactions, or money laundering.
+    * The unauthorized harvesting, scraping, or trafficking of personally 
+      identifiable information (PII) in violation of applicable data privacy 
+      regulations (e.g., GDPR, CCPA).
+    * Any activity that infringes upon the intellectual property rights, 
+      privacy rights, or human rights of third parties.
+
+6.3 Responsibility of Licensee: The Licensee assumes sole and absolute legal 
+    responsibility for verifying that their specific use, deployment, and 
+    distribution of the Software complies entirely with all applicable laws in 
+    their relevant jurisdictions.
+
+================================================================================
+7. REDISTRIBUTION OF DERIVATIVE WORKS
+================================================================================
+When distributing Derivative Works or incorporating the Framework into a larger 
+project, the Licensee must ensure that:
+
+7.1 The recipients of the Derivative Work are subject to the same terms 
+    regarding Mandatory Attribution (Section 5) and Strict Lawful Use (Section 6).
+
+7.2 No terms or conditions are imposed on the redistributed Framework that 
+    restrict, alter, or strip away the original authorship rights of yummyzzzz 
+    or the acceptable use restrictions regarding illegal activities.
+
+================================================================================
+8. TERMINATION OF LICENSE
+================================================================================
+8.1 Automatic Termination: Any failure by the Licensee to comply with any term 
+    of this License—specifically including, but not limited to, the failure to 
+    provide required attribution under Section 5 or any violation of the legality 
+    provisions under Section 6—shall result in the immediate and automatic 
+    termination of all rights granted herein without notice from the Licensor.
+
+8.2 Effect of Termination: Upon termination, the Licensee must immediately cease 
+    all use, distribution, modification, and deployment of the Framework and 
+    destroy all copies of the Software in their possession or control.
+
+================================================================================
+9. DISCLAIMER OF WARRANTY
+================================================================================
+THE FRAMEWORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS 
+FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE LICENSOR (yummyzzzz) 
+MAKES NO REPRESENTATION OR WARRANTY THAT THE SOFTWARE WILL BE ERROR-FREE, 
+SECURE, UNINTERRUPTED, OR FREE FROM VULNERABILITIES. THE ENTIRE RISK AS TO THE 
+QUALITY, PERFORMANCE, AND LAWFUL DEPLOYMENT OF THE SOFTWARE LIES WITH THE 
+LICENSEE.
+
+================================================================================
+10. LIMITATION OF LIABILITY & INDEMNIFICATION
+================================================================================
+10.1 Limitation of Liability: IN NO EVENT SHALL THE LICENSOR (yummyzzzz) OR 
+     COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, 
+     WHETHER IN AN ACTION OF CONTRACT, TORT, NEGLIGENCE, OR OTHERWISE, ARISING 
+     FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+     DEALINGS IN THE SOFTWARE, INCLUDING ANY DIRECT, INDIRECT, INCIDENTAL, 
+     SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING PROCUREMENT OF 
+     SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
+     INTERRUPTION).
+
+10.2 Indemnification: The Licensee agrees to defend, indemnify, and hold harmless 
+     yummyzzzz from and against any and all claims, liabilities, damages, losses, 
+     fines, penalties, costs, and expenses (including legal fees) arising out of 
+     or resulting from the Licensee's unauthorized use, modification, or 
+     distribution of the Framework, including any breach of the legality 
+     provisions in Section 6.
+
+================================================================================
+11. MISCELLANEOUS & SEVERABILITY
+================================================================================
+11.1 Severability: If any provision of this License is declared invalid, illegal, 
+     or unenforceable by a court of competent jurisdiction, such invalidity 
+     shall not affect the validity or enforceability of the remaining provisions, 
+     which shall remain in full force and effect.
+
+11.2 Entire Agreement: This License constitutes the entire agreement between 
+     the Licensor and the Licensee regarding the use and distribution of the 
+     Core Framework.
+================================================================================
