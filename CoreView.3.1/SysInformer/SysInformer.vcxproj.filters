@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Ex">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="RF">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Ex\CPU">
+      <UniqueIdentifier>{201620a0-6d49-40bf-901e-c7593862a6e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex\GPU">
+      <UniqueIdentifier>{dc3baa0f-f5db-4b28-bc67-1c1cb6a7ef54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex\Network">
+      <UniqueIdentifier>{4937f32d-01d6-41e2-9866-e3d6f30b3829}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex\WinArch">
+      <UniqueIdentifier>{bee62557-dc16-447a-a7b5-272efa1f69c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex\Helpers">
+      <UniqueIdentifier>{11d443ff-62e4-47cd-a398-76aac73bb0be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex\RAM">
+      <UniqueIdentifier>{e0dd1a50-9d96-4262-adf5-4cc9c0a30c35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex\Drives">
+      <UniqueIdentifier>{f34963f4-1402-41e3-a66d-4b6a461eb8d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ex\Devices">
+      <UniqueIdentifier>{9a4ee290-8216-4f0c-90e7-257944bd89ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SysInformer.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Includes.h">
+      <Filter>Ex</Filter>
+    </ClInclude>
+    <ClInclude Include="GatherCPU.hpp">
+      <Filter>Ex\CPU</Filter>
+    </ClInclude>
+    <ClInclude Include="GatherGPU.hpp">
+      <Filter>Ex\GPU</Filter>
+    </ClInclude>
+    <ClInclude Include="GatherNet.hpp">
+      <Filter>Ex\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="GatherWin.hpp">
+      <Filter>Ex\WinArch</Filter>
+    </ClInclude>
+    <ClInclude Include="Ex.h">
+      <Filter>Ex</Filter>
+    </ClInclude>
+    <ClInclude Include="NarrowString.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="setColor.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="SetConsoleOutputType.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="GatherRAM.hpp">
+      <Filter>Ex\RAM</Filter>
+    </ClInclude>
+    <ClInclude Include="GatherDrives.hpp">
+      <Filter>Ex\Drives</Filter>
+    </ClInclude>
+    <ClInclude Include="GatherDevices.hpp">
+      <Filter>Ex\Devices</Filter>
+    </ClInclude>
+    <ClInclude Include="RGB.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Banner.hpp">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="ScrollToTop.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="ListenForKey.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="CopyToClipboard.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="ReRun.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="ClearConsole.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveToText.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="resource2.h">
+      <Filter>Ex</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageBox.hpp">
+      <Filter>Ex\Helpers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SysInformerNORGB.md">
+      <Filter>Main</Filter>
+    </None>
+    <None Include="SysInformerRGB.md">
+      <Filter>Main</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\CoreViewer.ico">
+      <Filter>RF</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SysInformer2.rc">
+      <Filter>RF</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

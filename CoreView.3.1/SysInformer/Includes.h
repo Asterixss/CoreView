@@ -1,0 +1,55 @@
+#pragma once
+#define _WIN32_WINNT 0x0A00
+
+#include <iostream>
+#include <string>
+#include <vector>
+#include <chrono>
+#include <format>
+#include <ctime>
+#include <algorithm>
+#include <sstream>
+#include <fstream>
+#include <random>
+#include <cmath>
+#include <filesystem>
+
+// Networking headers
+#include <winsock2.h>
+#include <ws2tcpip.h>
+#include <iphlpapi.h>
+
+// Windows and Hardware headers
+#include <windows.h>
+#include <winioctl.h>
+#include <cwctype>
+#include <intrin.h>
+#include <dxgi.h>
+#include <setupapi.h>
+#include <devguid.h>
+#include <cfgmgr32.h>
+#include <wrl/client.h>
+#include <comdef.h>
+#include <Wbemidl.h>
+#include <conio.h>
+#include <lm.h>
+#include <d3d11.h>
+#include <gl/GL.h>
+#include <wlanapi.h>
+#include <ws2tcpip.h>
+
+// Library linkages
+#pragma comment(lib, "wlanapi.lib")
+#pragma comment(lib, "advapi32.lib")
+#pragma comment(lib, "opengl32.lib")
+#pragma comment(lib, "user32.lib")
+#pragma comment(lib, "gdi32.lib")
+#pragma comment(lib, "d3d11.lib")
+#pragma comment(lib, "Netapi32.lib")
+#pragma comment(lib, "Imm32.lib")
+#pragma comment(lib, "cfgmgr32.lib")
+#pragma comment(lib, "setupapi.lib")
+#pragma comment(lib, "wbemuuid.lib")
+#pragma comment(lib, "dxgi.lib")
+#pragma comment(lib, "iphlpapi.lib")
+#pragma comment(lib, "ws2_32.lib")
