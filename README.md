@@ -50,6 +50,8 @@ If you prefer to compile the source code yourself, ensure you have a C++ compile
 * FC = Full-Custom (Stable but modified Version, e.g. RGB / NO RGB)
 * PR = Pre-Release (un-stable but Early Version)
 
+_You can always check the Version of the .exe when installing (Typically in the name) or by right-click > Properties > Details, for 2.3 builds, it will say 2.3.0.0_
+
 ## Feedback and Bug Reporting
 
 This tool is currently in active development. If you find a bug, encounter a crash, or have a feature suggestion, please help us improve by reporting it:
