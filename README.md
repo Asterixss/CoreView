@@ -52,7 +52,7 @@ If you prefer to compile the source code yourself, ensure you have a C++ compile
 
 _You can always check the Version of the .exe when installing (Typically in the name) or by right-click > Properties > Details, for 2.3 builds, it will say 2.3.0.0_
 
-_SILENT UPDATES MAY OCCURR IN THE FUTURE, WHICH ONLY CHANGE THE INTERNAL CODE STRUCTURE._
+_SILENT UPDATES MAY OCCURR IN THE FUTURE, WHICH ONLY AFFECTS THE INTERNAL CODE STRUCTURE._
 
 ## Feedback and Bug Reporting
 
