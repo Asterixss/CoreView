@@ -72,3 +72,7 @@ This tool is currently in active development. If you find a bug, encounter a cra
 We appreciate your contributions in making CoreView more stable and reliable.
 
 **Some hardware queries require elevated privileges. Because CoreView accesses detailed system information, some security software may request confirmation before execution.**
+
+**CoreView requires Access for signals like Wi-Fi, this can trigger an Windows Privacy Location Popup, which asks you for permission. You can safely deny it, but multiple Network Features can show false Information, it's highly recommended to allow it.**
+
+![Alt text](popup.png)
