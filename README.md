@@ -9,7 +9,7 @@ The Installer is essentially an Helper, but also an repair tool, if one of the C
 
 CoreView is an intuitive, user-friendly C++ CLI system informer for **Windows** designed to provide deep insights into your hardware and operating system licensed under the EULA License.
 
-![Alt text](showcase_2.png)
+![Alt text](showcase_3.png)
 
 ## Overview
 
