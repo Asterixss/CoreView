@@ -1,7 +1,8 @@
 # CoreFramework & Installers
 CoreFramework is the definition of all Core Projects, e.g. CoreView (This Project) and more upcoming ones.
 
-You can find the CoreFramework Installer, which installs all components associated with CoreFramework on your pc [Here.](https://github.com/yummyzzzz/CoreInstaller) [Direct Install](https://github.com/yummyzzzz/CoreInstaller/releases/download/CoreInstaller/CoreInstaller.exe)
+You can find the CoreFramework Installer, which installs all components associated with CoreFramework on your pc [Here.](https://github.com/yummyzzzz/CoreInstaller)
+[Direct Install](https://github.com/yummyzzzz/CoreInstaller/releases/download/CoreInstaller/CoreInstaller.exe)
 
 The Installer is essentially an Helper, but also an repair tool, if one of the Core Components is missing or corrupted.
 
